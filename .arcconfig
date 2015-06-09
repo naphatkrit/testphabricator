@@ -1,0 +1,7 @@
+{
+  "phabricator.uri": "http://dropboxlocalhost.com:8000",
+  "repository.callsign": "TESTGITHUB",
+  "copyright_holder" : "naphat",
+  "immutable_history": false,
+  "base": "arc:amended, git:branch-unique(origin/master)"
+}
